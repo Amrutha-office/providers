@@ -1,0 +1,4 @@
+#Mon Apr 28 10:41:23 IST 2025
+base.0=/Users/amruthasiddireddy/Documents/providers/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
